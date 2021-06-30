@@ -1,0 +1,2 @@
+The capacitor capacitance in parallel connection is  284.000000
+The capacitor capacitance in series connection is  1.043636
